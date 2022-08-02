@@ -1,0 +1,21 @@
+// Noto Sans TC from google fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+  line-height: 1.5;
+  color: $color-main-text;
+}
+
+p {
+  font-size: 1.5rem;
+}
